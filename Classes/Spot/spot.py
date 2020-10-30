@@ -28,7 +28,7 @@ class Spot:
 		return self.color == color.Color.ORANGE
 
 	def is_end(self):
-		return self.color == color.Color.TURQUOISE
+		return self.color == color.Color.TORQUISE
 
 	def reset(self):
 		self.color = color.Color.WHITE
@@ -46,7 +46,7 @@ class Spot:
 		self.color = color.Color.BLACK
 
 	def make_end(self):
-		self.color = color.Color.TURQUOISE
+		self.color = color.Color.TORQUISE
 
 	def make_path(self):
 		self.color = color.Color.PURPLE
