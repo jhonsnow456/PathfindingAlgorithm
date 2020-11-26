@@ -1,2 +1,2 @@
 # PathfindingAlgorithm
-Game Implemented in Python
+Game Implemented in Python using Pygame
