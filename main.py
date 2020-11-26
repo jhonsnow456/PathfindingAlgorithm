@@ -99,6 +99,6 @@ def main(win, width):
 
 	pygame.quit()
 
-
+# creating the main menu in a better appoch
 if __name__ == '__main__':
 	main(WIN, WIDTH)
