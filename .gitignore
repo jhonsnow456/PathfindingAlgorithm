@@ -1,0 +1,5 @@
+env/
+Classes/__pycache__/
+Classes/Algorithm/__pycache__
+Classes/Color/__pycache__/
+Classes/Spot/__pycache__/
